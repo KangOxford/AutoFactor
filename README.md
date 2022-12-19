@@ -8,9 +8,14 @@
 ## 数据预处理
 * 涨跌停
 * ST去除
-## 因子
+## 因子开发分类
 * message data
 * orderbook data(minute level)
+# 因子开发逻辑
+* 交易量
+  * traded volume
+  * limit order volume
+* 波动率 
 ## 因子测试框架
 * IC
 * rank IC
