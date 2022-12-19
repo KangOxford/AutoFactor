@@ -14,6 +14,7 @@
 * orderbook data(minute level)
 ## 因子开发逻辑
 * 微观结构
+* 高频因子
 * 交易量
   * traded volume
   * limit order volume
