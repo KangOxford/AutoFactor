@@ -17,6 +17,7 @@
   * traded volume
   * limit order volume
 * 波动率 
+* Order flow imbalance
 * 遗传算法因子挖掘
   * 基于遗传规划的选股因子挖掘
   * 时间无关性
