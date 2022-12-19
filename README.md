@@ -1,5 +1,6 @@
-# 遗传算法因子挖掘
+## 遗传算法因子挖掘
 * 基于遗传规划的选股因子挖掘
+* 时间无关性
 ## 特征提取
 * How and When are High-Frequency Stock Returns Predictable
 * Feature Extraction, Performance Analysis and System Design Using the DU Mobility Dataset
@@ -11,7 +12,7 @@
 ## 因子开发分类
 * message data
 * orderbook data(minute level)
-# 因子开发逻辑
+## 因子开发逻辑
 * 交易量
   * traded volume
   * limit order volume
